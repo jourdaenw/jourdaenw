@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Jourdaen Wilson! <br/><a 
+href="https://www.linkedin.com/in/jourdaen-w-03744b196/">Data Analyst</a>
+</h1>
 
-<!--
-**jourdaenw/jourdaenw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>💾SQL Project</b>
+  - [Food and Beverage Revenue Analysis for Arts Nonprofit](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📚Certifications:</h2>
+
+- <b>📜April 2026 Data Analytics Career Accelerator Program</b>
+  - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](https://www.virtualbadge.io/certificate-validator?credential=78d38e77-db64-482f-beee-d09a80fdbdd8)
+- <b>📜Microsoft Excel Power Query Workshop</b>
+  - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](https://www.virtualbadge.io/certificate-validator?credential=ebcd29d3-39a3-4a95-8235-ba9d0c1a0f41)
+
+
+<h2>📱Connect with me:</h2>
+<a href="https://www.linkedin.com/in/jourdaen-w-03744b196/" target="_blank">
+  <img align="left" alt="Jourdaen Wilson" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
