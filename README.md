@@ -16,7 +16,7 @@ href=> Data Reporting Specialist</a>
 - <b>📜April 2026 Data Analytics Career Accelerator Program</b>
   - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](https://www.virtualbadge.io/certificate-validator?credential=78d38e77-db64-482f-beee-d09a80fdbdd8)
 - <b>📜Microsoft Excel Power Query Workshop</b>
-  - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](https://www.virtualbadge.io/certificate-validator?credential=ebcd29d3-39a3-4a95-8235-ba9d0c1a0f41)
+  - [Demonstrated competency in Microsoft Excel Power Query through hands-on data cleaning, transformation, automation, and multi-source data integration.](https://www.virtualbadge.io/certificate-validator?credential=ebcd29d3-39a3-4a95-8235-ba9d0c1a0f41)
 
 
 <h2>📱Connect with me:</h2>
