@@ -1,11 +1,12 @@
 <h1>Hi, I'm Jourdaen Wilson! <br/><a 
-href="https://www.linkedin.com/in/jourdaen-w-03744b196/">Data Analyst</a>
+href="https://www.linkedin.com/in/jourdaen-w-03744b196/">Data Analyst</a>,<a
+href=> Data Reporting Specialist</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Food and Beverage Revenue Analysis for Arts Nonprofit](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/jourdaenw/Food_and_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
 
 <h2>📚Certifications:</h2>
 
