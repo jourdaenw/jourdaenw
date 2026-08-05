@@ -7,6 +7,9 @@ href=> Data Reporting Specialist</a>
 
 - <b>💾SQL Project</b>
   - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/jourdaenw/Food_and_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
+ 
+- <b>💾Power BI Project</b>
+  - [Executive Box Office Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjFlZmRlYjAtODQxNS00ZTZkLTkxZTgtM2RkNDIwODllZDMyIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
 
 <h2>📚Certifications:</h2>
 
