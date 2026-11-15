@@ -1,6 +1,5 @@
 <h1>Hi, I'm Jourdaen Wilson! <br/><a 
-href="https://www.linkedin.com/in/jourdaen-w-03744b196/">Data Analyst</a>,<a
-href="https://www.linkedin.com/in/jourdaen-w-03744b196/"> Data Reporting Specialist</a>
+href="https://www.linkedin.com/in/jourdaen-w-03744b196/">Aspiring Data Analyst</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
